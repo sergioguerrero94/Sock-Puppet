@@ -58,7 +58,7 @@ He encontrado una serie de problemas con estas dos redes sociales al intento de 
 
 Esta es la información de la personalidad y fisico de mi Sock Puppet modificada usando de guía la página web FakeNameGenerator.
 
-![sockpuppet](imagenes/2.png)
+![sockpuppet](Imagenes/2.png)
 
 ## Sock Puppet en acción
 
@@ -66,11 +66,11 @@ Después de varios problemas para registrarme en varias redes sociales por temas
 
 Esta parte ha sido bastante complicada de llvar a cabo por el problema encontrado con la VPN Proton al estar en las redes sociales.
 
-![twitter](imagenes/3.png)
+![twitter](Imageness/3.png)
 
 Dado que la forma más fácil de acercarse a la gente puede ser el fútbol, he decidido crear este Sock Puppet orientado al fútbol.
 
-![Interaccion](imagenes/4.png)
+![Interaccion](Imagenes/4.png)
 
 ## Problemas encontrados
 
@@ -82,19 +82,19 @@ Como podemos ver en la siguiente imagen, cada vez que hemos intentado crear una 
 
 En un principio pensé que sería de la cuenta de correo generada con FakeMailGenerator y por ello intenté registrarme con una cuenta de correo electrónico de Microsoft pero me baneaban igual. Por lo tanto he desestimado la intención de crearme una cuenta en Facebook con una VPN gratuita.
 
-![facebook](imagenes/5.png)
+![facebook](Imagenes/5.png)
 
 He intentado desbloquear mi cuenta con números de móvil de Países Bajos online de la página indicada en la bibliografía que puede recibir SMS pero indican la mayoría que con esos números se han intentado hacer varias confirmaciones anteriormente de Facebook hasta que he encontrado uno valido.
 
-![facebookphone](imagenes/6.png)
+![facebookphone](Imagenes/6.png)
 
 Tras un buen rato, reciví el sms con el código que me han mandado y he presentado una apelación para que me desbloqueen la cuenta.
 
-![apelacion](imagenes/7.png)
+![apelacion](Imagenes/7.png)
 
 El tercer y último problema, es que al ser una cuenta nueva, es complicado que alguien responda a tus interacciones.
 
-![interacción](imagenes/8.png)
+![interacción](Imagenes/8.png)
 
 ## Conclusión
 
