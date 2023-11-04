@@ -1,7 +1,7 @@
 
 # Qué es, creación y acción de un Sock Puppet
 
-![portada](imagenes/Portada.png)
+![portada](./imagenes/Portada.png)
 
 **Autor:** Sergio Guerrero Merlo
 
