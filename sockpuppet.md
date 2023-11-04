@@ -46,7 +46,7 @@ Igualmente gracias a esta página no solo podemos crear una persona falsa para n
 
 Además con la página web mencionada en la bibliografía llamada Thispersondoesnotexist, he generado la siguiente foto para poderla usar de perfil para las redes sociales.
 
-![fotoperfil](Imagenes/1.png)
+![fotoperfil](Imagenes/fotodeperfil.png)
 
 Antes de crear las cuentas necesarias para este Sock Puppet, me he conectado con la VPN mencionada anteriormente a Países Bajos.
 
