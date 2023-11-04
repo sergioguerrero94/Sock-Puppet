@@ -1,7 +1,7 @@
 
 # Qué es, creación y acción de un Sock Puppet
 
-![portada](./imagenes/Portada.png)
+![portada](Imagenes/Portada.png)
 
 **Autor:** Sergio Guerrero Merlo
 
@@ -50,7 +50,7 @@ Además con la página web mencionada en la bibliografía llamada Thispersondoes
 
 Antes de crear las cuentas necesarias para este Sock Puppet, me he conectado con la VPN mencionada anteriormente a Países Bajos.
 
-![vpn](imagenes/1.png)
+![vpn](Imagenes/1.png)
 
 Después de tener toda la información de mi Sock Puppet y estar conectado a la VPN, he intentado crear perfil de Twitter y Facebook que son de las redes sociales a día de hoy más usadas para poder publicar e interactuar con personas.
 
