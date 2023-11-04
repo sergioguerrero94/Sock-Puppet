@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-04T14:05:36+01:00",
+  "id": "Sock Puppet",
+  "duration": 0,
+  "title": "Qué es, creación y acción de un Sock Puppet",
+  "summary": "Sock Puppet",
+  "source": ".\\sockpuppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sockpuppet"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "Sock Puppet"
+}
